@@ -1,0 +1,27 @@
+body{
+      color:#6666FF;
+      text-align: center;
+     background-image: url(../images/bg.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;}
+
+ #header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;}
+  #nav {
+    line-height:45px;
+    background-color:#CCD6CC;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px;
+    position: relative;
+    top:50px;}
+  #section {
+    float:left;
+    position: relative;
+    top:-200px;
+    left:560px;}
+
