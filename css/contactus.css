@@ -6,19 +6,24 @@ body{
      background-size: cover;}
 
  #header {
-    background-color:black;
-    color:white;
+    background-color:rgba(252, 231, 252, 0.61);
+    color: rgba(196, 13, 140, 0.92);
     text-align:center;
-    padding:5px;}
+    padding:5px;
+    border: solid;
+ }
   #nav {
     line-height:45px;
-    background-color:#CCD6CC;
+    background-color:rgba(252, 231, 252, 0.61);
     height:300px;
     width:100px;
     float:left;
     padding:5px;
     position: relative;
-    top:50px;}
+    top:50px;
+    border: solid;
+    border-color: rgba(196, 13, 140, 0.92);
+  }
   #section {
     float:left;
     position: relative;
