@@ -11,6 +11,7 @@ body{
     text-align:center;
     padding:5px;
     border: solid;
+     font-family: fantasy;
  }
   #nav {
     line-height:45px;
@@ -23,10 +24,14 @@ body{
     top:50px;
     border: solid;
     border-color: rgba(196, 13, 140, 0.92);
+      font-family: fantasy;
   }
   #section {
     float:left;
     position: relative;
     top:-200px;
-    left:560px;}
+    left:560px;
+  font-family: fantasy;
+  color: #af0495;
+  }
 
