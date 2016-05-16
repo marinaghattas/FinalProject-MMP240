@@ -4,6 +4,8 @@
     text-align:center;
     padding:5px;
 font-family: fantasy;
+    border: solid;
+    border-color: rgba(103, 164, 234, 0.72);
 }
   #nav {
     line-height:45px;
