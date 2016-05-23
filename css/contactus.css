@@ -27,8 +27,15 @@ body{
       font-family: fantasy;
   }
   #section {
+<<<<<<< HEAD
     left: 250px;
     top: 500px;
+=======
+    float:left;
+    position: relative;
+    top:-200px;
+    left:560px;
+>>>>>>> origin/master
   font-family: fantasy;
   color: #af0495;
   }
